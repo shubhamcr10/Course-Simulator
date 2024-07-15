@@ -31,5 +31,10 @@ Behavior
 
 This command assumes the agent is built and installed according to the instructions provided by eProsima.
 
+## Demo
+![Simulators](https://github.com/user-attachments/assets/2d3cbd08-f54d-401d-aac1-7523d36687fb)
+
+This GIF demonstrates the Course Simulator in action, visualizing data simulated over XRCE-DDS.
+
 ## Contact
 For any questions or issues, please contact at shubhamcr10@gmail.com .
